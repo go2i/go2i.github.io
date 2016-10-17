@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[向往智能]]></title>
-  <link href="https://cleverleo.github.io/atom.xml" rel="self"/>
-  <link href="https://cleverleo.github.io/"/>
-  <updated>2016-10-17T18:48:00+08:00</updated>
-  <id>https://cleverleo.github.io/</id>
+  <link href="https://go2i.github.io/atom.xml" rel="self"/>
+  <link href="https://go2i.github.io/"/>
+  <updated>2016-10-17T21:34:00+08:00</updated>
+  <id>https://go2i.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,11 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[for test]]></title>
-    <link href="https://cleverleo.github.io/14766238781520.html"/>
+    <title type="html"><![CDATA[First Shot]]></title>
+    <link href="https://go2i.github.io/14766238781520.html"/>
     <updated>2016-10-16T21:17:58+08:00</updated>
-    <id>https://cleverleo.github.io/14766238781520.html</id>
+    <id>https://go2i.github.io/14766238781520.html</id>
     <content type="html"><![CDATA[
+<p>今天是2016年10月17日，今天正式启动Go2I项目，本项目主要的目标是使用各种第三方解决方案，用于打通各种智能设备，并总结出一套整体的解决方法，来达成一种全新的生活体验。本项目暂时只是个人项目，因此不担保程序无bug，文档清晰，但是也会尽可能以高标准的水平完成工作。</p>
+
+<p>本人有一定的研发能力，因此会涉及到部分平台、设备的打通的研发工作。由于非商业项目，因此不担保研发周期和进度。所以欢迎有能力的童鞋进来写issus一起讨论。</p>
+
+<p>So，就酱紫。</p>
 
 ]]></content>
   </entry>

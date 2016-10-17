@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://cleverleo.github.io/</loc>
-  <lastmod>2016-10-17T18:50:56+08:00</lastmod>
+  <loc>https://go2i.github.io/</loc>
+  <lastmod>2016-10-17T21:34:21+08:00</lastmod>
 </url>
 
 <url>
-  <loc>https://cleverleo.github.io/14766238781520.html</loc>
+  <loc>https://go2i.github.io/14766238781520.html</loc>
   <lastmod>2016-10-16T21:17:58+08:00</lastmod>
 </url>
 
 
+
+<url>
+  <loc>https://go2i.github.io/notic.html</loc>
+</url>
 
 
 </urlset>
