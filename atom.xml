@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[向往智能]]></title>
+  <link href="https://cleverleo.github.io/atom.xml" rel="self"/>
+  <link href="https://cleverleo.github.io/"/>
+  <updated>2016-10-17T10:22:39+08:00</updated>
+  <id>https://cleverleo.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[for test]]></title>
+    <link href="https://cleverleo.github.io/14766238781520.html"/>
+    <updated>2016-10-16T21:17:58+08:00</updated>
+    <id>https://cleverleo.github.io/14766238781520.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+</feed>
